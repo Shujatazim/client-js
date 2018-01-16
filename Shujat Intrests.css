@@ -1,0 +1,26 @@
+body{
+  background-color:	#000000;
+  }
+.topdiv{
+  color:#A52A2A;
+  text-align: center;
+}
+#TopHeader{
+  color: Yellow;
+}
+#MidHeader{
+  color:Yellow;
+}
+.middiv{
+  color:Green;
+}
+.bottomdiv{
+  color:red;
+}
+#bottomheader{
+    color: yellow;
+}
+.lastdiv{
+    color: crimson;
+    text-align: center;
+}
